@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Excercise2</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="name_hint">Enter text...</string>
+    <string name="married">Married</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="date">Date of birthday</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="dialog_title">Error</string>
+    <string name="dialog_message">Enter a valid first and last name before saving</string>
+    <string name="save_success">Saved!</string>
+    <string name="save_failure">Error! Not saved!</string>
+    <string name="load_success">Loaded succesfully!</string>
+</resources>

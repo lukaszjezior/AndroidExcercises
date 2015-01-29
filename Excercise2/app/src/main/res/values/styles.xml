@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light"></style>
+
+    <style name="appBackground">
+        <item name="android:background">#FF91B0C5</item>
+    </style>
+
+    <style name="fontBasic">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="buttonFont" parent="fontBasic">
+        <item name="android:textColor">#FF531010</item>
+    </style>
+
+</resources>

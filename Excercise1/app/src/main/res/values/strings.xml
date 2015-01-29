@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Excercise1</string>
+    <string name="test">Test</string>
+    <string name="dialog_title">Connecting to www.mobica.com</string>
+    <string name="success">Success!</string>
+    <string name="failure">Failure!</string>
+</resources>
